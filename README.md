@@ -1,4 +1,4 @@
-# Medelvärden----Programmering-1
+# Medelvärden--Programmering-1
 Den här uppgiften går ut på att skriva en funktion som räknar upp medelvärden av alla tal som finns i en Array
 ## Bedömningsmatris ##
 
@@ -48,6 +48,14 @@ Du ska skriva en funktion: get_average som tar en argument som är en array och 
     data = [3.5, 4.7, 8.6, 2.9]
     average = get_average(data)
     puts "The average is #{average}."
+
+```
+
+skall skriva ut:
+
+```ruby
+
+The average is 4.924999999999999
 
 ```
 
